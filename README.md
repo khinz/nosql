@@ -88,7 +88,7 @@ Lista:
 
 1. Ćwikowski, Grzegorz
 1. Duchna, Przemysław
-1. Hinz, Karol
+1. Hinz, Karol. [Koń jaki jest, każdy widzi] (https://github.com/khinz/MongoDB)
 1. Miszczykowski, Mariusz
 1. Rawicki, Wojciech
 1. Wasilewski, Tomasz
